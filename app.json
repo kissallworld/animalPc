@@ -1,20 +1,20 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
+    "name": "ljs4gml3",
+    "description": "ljs4gml3",
     "keywords": [
         "V2Ray"
     ],
     "env": {
         "UUID": {
-            "description": "V2Ray UUID",
-            "value": "ce7ea10b-5b27-49ab-a93d-6b184df9cce9"
+            "description": "your own UUID",
+            "value": "cc31d550-9694-4f05-85bd-adff6f1186c1"
         },
         "TUNNEL_TOKEN": {
             "description": "Cloudflare Tunnel Token",
             "required": false
         }
     },
-    "website": "",
-    "repository": "",
+    "website": "https://github.com/673888368/QuteApp",
+    "repository": "https://github.com/673888368/QuteApp",
     "stack": "container"
 }
