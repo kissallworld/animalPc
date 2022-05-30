@@ -1,14 +1,14 @@
-name: QuteApp
+name: i don't know
 
 on:
   workflow_dispatch:
     inputs:
       actions:
-        description: "action: deploy/stop/start/destroy"
+        description: " deploy "
         default: "deploy"
         required: true
       heroku-region:
-        description: "us 或者 eu. 如果你的app已经创建，切换到不同的region，需要先输入 actions 为 destroy 删除app"
+        description: "us or eu"
         default: "eu"
         required: false
       heroku-app-name:
