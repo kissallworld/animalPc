@@ -1,13 +1,13 @@
 {
-    "name": "ljs5gml2",
-    "description": "ljs5gml2",
+    "name": "ljsms5",
+    "description": "ljsms5",
     "keywords": [
         "V2Ray"
     ],
     "env": {
         "UUID": {
             "description": "your own UUID",
-            "value": "d4373386-9d58-444a-aac1-36182b372be3"
+            "value": "8d0d6cf9-53c8-4ab9-8997-7a912a73faff"
         },
         "TUNNEL_TOKEN": {
             "description": "Cloudflare Tunnel Token",
