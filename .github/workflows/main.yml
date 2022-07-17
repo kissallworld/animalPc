@@ -1,4 +1,4 @@
-name: ljsms2
+name: ljstplk2
 
 on:
   workflow_dispatch:
