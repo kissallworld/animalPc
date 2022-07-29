@@ -1,13 +1,13 @@
 {
-    "name": "ljstpbad7",
-    "description": "ljstpbad7",
+    "name": "ljstpyar12",
+    "description": "ljstpyar12",
     "keywords": [
         "V2Ray"
     ],
     "env": {
         "UUID": {
             "description": "your own UUID",
-            "value": "a03ed4dd-ba9c-446f-b974-8d0e36c3b5e8"
+            "value": "983593bd-fd95-40ee-9395-f4389081c466"
         },
         "TUNNEL_TOKEN": {
             "description": "Cloudflare Tunnel Token",
