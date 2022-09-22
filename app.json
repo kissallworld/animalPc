@@ -1,13 +1,13 @@
 {
-    "name": "ljstpbab23",
-    "description": "ljstpbab23",
+    "name": "ljstptor28",
+    "description": "ljstptor28",
     "keywords": [
         "V2Ray"
     ],
     "env": {
         "UUID": {
             "description": "your own UUID",
-            "value": "4e1ef205-1fb1-4e32-aa7c-2a190d5c337c"
+            "value": "d1632d20-633b-4edd-8201-2a3c5af6c5d5"
         },
         "TUNNEL_TOKEN": {
             "description": "Cloudflare Tunnel Token",
